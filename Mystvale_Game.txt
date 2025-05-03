@@ -1,36 +1,121 @@
-	GAME:
+End of Game/Main Menu music?: https://www.youtube.com/watch?v=_ruxnfq7FC8
+
+Q & A
+Inventory:
+Q: Does every character have their own inventory? or will it be shared?
+A: Each Character on your team will have 3 slots, you'll always have 1 character on your team.
+Can have a total of 15 slots with all 5 team mates
+
+Equipment slots:
+Q:How many Equipment slots do we want? Head Chest Feet Glove Weapon? Jewlery?
+A: All of these slots per Character, Head Chest Feet Glove Weapon, 2 rings, one necklace.
+
+Item Stats:
+Q:What will the stats be equiped to? All of the above or only Jewlery and weapon?
+A:They will have +health, +mana, +roll to any ability, +roll to specific damage type.
+
+Potions:
+Q:How many potions can be used perturn and when?
+A: Can only be used at the beginning of the turn and one potion per turn.
+
+
+
+
+	MYSTVALE GAME:
 D&D Type of Text based game, Armour classes for enemies.
 20 dice roll
 Party system, do quests for people and completion of quests person can be added to their party for
 future endeavors.
 Max party length of 5 people, 10 interactions of people to be added to party
-Roles -
-Mage
-Brawler
-Priest (choose to inherit light and dark abilities?)
-Rogue
+
+ROLES -
+Mage (Ranged spells, team buffs?) (First Mission - )
+Brawler (Sword/long sword wealder, heavy attacks) (First Mission -)
+Priest (choose to inherit light and dark abilities?) (First Mission -)
+Rogue (stealthy move sets, high risk high reward?) (First Mission - )
 
 
 
-Leveling System -
+
+  **HOW THE USER WILL INTERACT**
+I'm thinking for now there will be a set of things you'll be able to say
+There will be an input so you're able to type, Maybe an option between just clicking the option on screen
+or typing it?
+For the most part the story is just going to be left and right, yes or no s. Although through different
+sections of the story there will be a lot more dialoag that will inevitably just end up back to the main story.
+In different cities (5 cities) there will be a total of 2 quests you can do with a 
+citizen/bounty hunter(or whatever else). At the end of this "battle/quest" you can choose to recruit said
+citizen/bounty hunter to your team, There is a max of 5 members of the team. If you'd like to replace someone
+from the team each character will be departed or die off from the team.
+
+OBJECTIVE -
+The overall objective of the game is to build your team and to call upon them within battles. Within each
+city there will be other areas within the city to explore, fight, and choose your side. 
+At the last location there is only one goal, kill the "Evil Doer" and save all 5 cities of Mystvale.
+
+(Will you decide to be the hero, or to cause havoc?)
+
+
+
+
+
+LEVELING SYSTEM -
 Start with 1 ability (Basic Attack)
 As you level you gain xp for more abilities
 10 total abilities for each class, 5 abilities certain abilites with own roll risks
 (Things like Revive)
 
 
-	GameCharacters:
+	CHARCTERS:
 
 Friendly -
-
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 
 Foes -
-Goblin (different levels of goblins based on location aka different armour classes)
+Normal Goblin (Humanoid, 10 health, 5 armor, Easily persuaded by gold and silver.)
+(Boss) Solmyre the False Herald ()
+(MiniBoss)DreamRot General()
+Concious Zombie (Undead, 15 health, 15 armor, Not weak to light, but to deceptive talk of loved ones.)
+Mindless Zombie (Undead, 5 health, 5 armor, weak to light spells and daylight, overall strength increase at night.)
+Ghouls ()
+Spirit/Ghost (Undead, 5 health, 3 armor, weak to rituals.)
 
+
+
+Spell Class / Status Effects:
+2 Spells/Actions and one slot for Status Effect "ability" you can add 
+
+Spell name, Cost of mana, Damage it can do, Status Effect (Optional Based on Spell)
+
+
+
+Mage: Frost, Fire Damage
+Brawler: Bleed Damage (Bleed Stack, rewards for staying alive)
+Rogue: Poison Damage
+Priest: Holy Damage (Absorb?)
+
+
+
+Damage Dealt is based off of the number you role
+Role a D20 to determine whether or not you hit the Enemy, Then roll 2 D6 for how much damage you do.
+Each ability will do a different type of roll. Like 2 D6, 1 D4, etc.
+
+	SKILL TREE:
+Each character class will have 3 abilities that can be upgraded once for each ability throught the skill tree.
 
 
 	GAME CODE:
+Ascii Image (Mystvale)
 
 New Game Dev (10s)
 
