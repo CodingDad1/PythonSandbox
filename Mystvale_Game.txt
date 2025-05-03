@@ -1,0 +1,46 @@
+	GAME:
+D&D Type of Text based game, Armour classes for enemies.
+20 dice roll
+Party system, do quests for people and completion of quests person can be added to their party for
+future endeavors.
+Max party length of 5 people, 10 interactions of people to be added to party
+Roles -
+Mage
+Brawler
+Priest (choose to inherit light and dark abilities?)
+Rogue
+
+
+
+Leveling System -
+Start with 1 ability (Basic Attack)
+As you level you gain xp for more abilities
+10 total abilities for each class, 5 abilities certain abilites with own roll risks
+(Things like Revive)
+
+
+	GameCharacters:
+
+Friendly -
+
+
+
+Foes -
+Goblin (different levels of goblins based on location aka different armour classes)
+
+
+
+	GAME CODE:
+
+New Game Dev (10s)
+
+Enjoy! (10s)
+
+
+ * User Input
+(yes or no)
+
+Yes -
+Print("Great! Lets begin, follow me.")
+No -
+Print("Ok.. Then what IS your name then?!?!")
