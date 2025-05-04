@@ -29,6 +29,7 @@ future endeavors.
 Max party length of 5 people, 10 interactions of people to be added to party
 
 ROLES -
+Each Role has 2 abilities and a skill tree for each ability with 2 options for upgrades which player can choose one of which.
 Mage (Ranged spells, team buffs?) (First Mission - )
 Brawler (Sword/long sword wealder, heavy attacks) (First Mission -)
 Priest (choose to inherit light and dark abilities?) (First Mission -)
@@ -68,26 +69,29 @@ As you level you gain xp for more abilities
 
 	CHARCTERS:
 
-Friendly -
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+Friendly - (Brawlers, Mages, Priests, Rogues)
+1. Thane Ironjaw (Brawler)
+2. Rika Thornboot (Brawler)
+3. Vexel Nymm (Mage)
+4. Talwyn Emberleaf (Mage)
+5. Sister Caedra (Priest)
+6. Father Orrick Greaves (Priest)
+7. Elyse Mourndawn (Priest)
+8. Silas Kett (Rogue)
+9. Nyss Vire (Rogue)
+10. Disguised as a Priest but really last boss?
 
 
 Foes -
+(Boss) GoblinBossName (Humanoid, 50 health, 25 armor, Not easily persuaded Enraged and bloodlust for battle.)
+(MiniBoss) GoblinBossName (Humanoid, 25 health, 15 armor, Just angry.)
+Archer Goblin (Humanoid, 10 health, 5 armor, Easily persuaded by gold and silver.)
 Normal Goblin (Humanoid, 10 health, 5 armor, Easily persuaded by gold and silver.)
-(Boss) Solmyre the False Herald ()
-(MiniBoss)DreamRot General()
-Concious Zombie (Undead, 15 health, 15 armor, Not weak to light, but to deceptive talk of loved ones.)
+(Boss) Solmyre the False Herald (Undead, 50 health, 25 armor, Weak to light magic.)
+(MiniBoss)DreamRot General(Undead, 25 health, 15 armor)
+Concious Zombie (Undead, 15 health, 10 armor, Not weak to light, but to deceptive talk of loved ones.)
 Mindless Zombie (Undead, 5 health, 5 armor, weak to light spells and daylight, overall strength increase at night.)
-Ghouls ()
+Ghouls (Undead, 10 health, 5 armor)
 Spirit/Ghost (Undead, 5 health, 3 armor, weak to rituals.)
 
 
@@ -112,6 +116,11 @@ Each ability will do a different type of roll. Like 2 D6, 1 D4, etc.
 
 	SKILL TREE:
 Each character class will have 3 abilities that can be upgraded once for each ability throught the skill tree.
+
+
+
+
+
 
 
 	GAME CODE:

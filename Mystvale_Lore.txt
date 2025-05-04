@@ -1,10 +1,10 @@
 	WHAT IS MYSTVALE?
 Mystvale is a nation, with 5 cities, each city has its own environment.
 1. Eldenreach – An old capital, towering and weary, with ruins beneath every cobblestone (Purple?)
-2. Gravemarch – Border city where the living and the dead hold uneasy truces. Closest to the Capital (Blue/Black)
+2. Gravemarch – Border city where the living and the dead hold uneasy truces. Closest to the Capital (Green)
 3. Velwynd – City of winds and glass towers; haunted by voices in the breeze. (Brown)
-4. Blackrest – Once a holy site, now a den of rogues and buried secrets. ()
-5.
+4. Blackrest – Once a holy site, now a den of rogues and buried secrets. (Red/Yellow)
+5. Redvale – A city of crimson soil and blood-stained history; noble and cursed. (Black)
 
 
 6.Thornmere -  Once a place of healing springs, now surrounded by bramble-choked woods. The Origin of these glows
@@ -17,8 +17,8 @@ motor vehicles. Things unknown to this realm.
 Mystvale used to be such a bright cunning place to be. A place Where all 5 cities thrived with tourists and
 city lovers. But one day there was an odd mist that overcame each city. Each with its own Glow,
 1.Red/Yellow (Hate)
-2.Blue/Black (Sadness/Despare)
-3.Green (Mutations)
+2.Black (Sadness/Despare)
+3.Green (Mutations/Zombies)
 4.Purple (Deceptive)
 5.Brown (Ghost town/Scared?)
 These cities went into chaos. Each with their own chaotic Motives drive the people mad. With each city
@@ -41,8 +41,25 @@ Why? Because he has a plan that is not quite clear until the end of the game (TB
 EVIL DOERS STORY -
 When the "Evil Doer" came to Mystvale he desipsed the joy this nation had. 
 
-Undead Lore -
+Undead Lore (Solmyre the Fals Herald) -
 The Evil Doer with his plan to destroy Mystvale and create his army sends Solmyre the False Herald his Undead Mafia Boss to Gravemarch to spread the diseases of the
 Undead and to create his army of unwilling. The disease Solmyre the False Herald passes creates hallucinations for these once citizens of Gravemarch,
 making them believe they are still beautiful humanoids. These hallucinations make the undead see normal humanoids as creaters and foes, While to
 the normal Humanoid these Undead seem to act strange, but to them their completely normal.
+
+The Goblin Lore () -
+
+The Spirits Lore () -
+
+The Rogues Lore () -
+
+The Blooksworn Lore (King Vallos the Redbound) -
+King Vallos used to be the King of the Bloodsworn, in the land of The Crimson Marches. Legend says
+Anyone to come before him wouldn't live to see tomorrow. Although when a strange disease struck the king of
+the Bloodsworn panic arose. Awaiting a cure the king sent many of his brave warriors to find a solution to their
+kingdoms problem of a sick King. Then "The Evil Doer" Arrived. At first guard was up around the kingdom.
+Although no one was any match for a caliber of the power that gods weild. "The Evil Doer" proposed his Plan to
+King Vallos. 
+
+
+
