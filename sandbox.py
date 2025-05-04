@@ -26,14 +26,14 @@ zombie = Monster("Zombie", 5, "Normal", 5, "Undead")
 
 
 
-# def show_intro():
-#     print(ascii_banner)
-#     print("New Game Dev, Please Enjoy")
-#     time.sleep(5)
-#     getUsersName()
-# def getUsersName():
-# #Get Users Name
-#     name = input("What is your name Stranger?: ")
-#     print("Are you sure your name is " + name + "?")
-#     isNameCorrect = False
-# show_intro()
+def show_intro():
+    print(ascii_banner)
+    print("New Game Dev, Please Enjoy")
+    time.sleep(5)
+    getUsersName()
+def getUsersName():
+#Get Users Name
+    name = input("What is your name Stranger?: ")
+    print("Are you sure your name is " + name + "?")
+    isNameCorrect = False
+show_intro()
