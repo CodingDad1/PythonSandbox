@@ -32,7 +32,7 @@ class Monster():
 
 #Character classes
 class Character():
-    def __init__(self, health, mana, armor, name, level, xp, currency, talent_points, dice_hit):
+    def __init__(self, health, mana, armor, name, level, xp, currency, talent_points, dice_hit, roll_sum):
         self.health = health
         self.mana = mana
         self.armor = armor
@@ -142,3 +142,26 @@ class Character():
     @dice_hits.setter
     def dice_hits(self, value):
         self._dice_hits = value
+
+    #Roll_Sum
+    #This is a getter method (This is when you retive something)
+    @property
+    def roll_sum(self):
+        return self._roll_sum
+    #This is a setter method (When set the value of something)
+    @roll_sum.setter
+    def roll_sum(self, value):
+        self._roll_sum = value
+
+
+
+
+#Example of Battles
+armor_class = 10
+
+if Nicco.roll_sum < armor_class:
+    print("You missed your attack... Bitch.")
+elif Nicco.roll_sum == 15 or Nicco.roll_sum == 14 or Nicco.roll_sum == 16 and Nicco.health == 150:
+    print("Oh my GOD you're awesome.")
+elif Nicco.roll_sum >= armor_class:
+    print("GREAT! I cant believe you hit that.")

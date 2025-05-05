@@ -1,7 +1,7 @@
 import random
 #Character classes
 class Character():
-    def __init__(self, health, mana, armor, name, level, xp, currency, talent_points, dice_hit):
+    def __init__(self, health, mana, armor, name, level, xp, currency, talent_points, dice_hit, roll_sum):
         self.health = health
         self.mana = mana
         self.armor = armor
@@ -11,6 +11,7 @@ class Character():
         self.currency = currency
         self.talent_points = talent_points
         self.dice_hit = dice_hit
+        self.roll_sum = roll_sum
 
     # The Dice Rolling Method
     def roll_dice(self, rolls, sides):
@@ -106,13 +107,34 @@ class Character():
     def dice_hits(self, value):
         self._dice_hits = value
 
+    #Roll_Sum
+    #This is a getter method (This is when you retive something)
+    @property
+    def roll_sum(self):
+        return self._roll_sum
+    #This is a setter method (When set the value of something)
+    @roll_sum.setter
+    def roll_sum(self, value):
+        self._roll_sum = value
 
 
 
-Nicco = Character(150, 50, 10, "Nicco The Great", 1, 0, 0, 0, 0)
+Nicco = Character(150, 50, 10, "Nicco The Great", 1, 0, 0, 0, 0, 0)
 print(Nicco.health)
-Brennan = Character (150, 50, 10, "Brennan the Goat", 1, 0, 0, 0, 0)
-Nicco.dice_hits = Nicco.roll_dice(2, 20)
-Brennan.dice_hits = Brennan.roll_dice(2, 20)
-print(f"{Nicco.name} Rolled: {Nicco.dice_hits} (total: {sum(Nicco.dice_hits)})")
-print(f"{Brennan.name} Rolled: {Brennan.dice_hits} (total: {sum(Brennan.dice_hits)})")
+Brennan = Character (150, 50, 10, "Brennan the Goat", 1, 0, 0, 0, 0, 0)
+Nicco.dice_hits = Nicco.roll_dice(1, 20)
+Brennan.dice_hits = Brennan.roll_dice(1, 20)
+Nicco.roll_sum = sum(Nicco.dice_hits)
+Brennan.roll_sum = sum(Brennan.dice_hits)
+print(f"{Nicco.name} Rolled: {Nicco.dice_hits} (total: {Nicco.roll_sum})")
+# print(f"{Brennan.name} Rolled: {Brennan.dice_hits} (total: {Brennan.roll_sum})")
+
+#Example of Battles
+armor_class = 10
+
+if Nicco.roll_sum < armor_class:
+    print("You missed your attack... Bitch.")
+elif Nicco.roll_sum == 15 or Nicco.roll_sum == 14 or Nicco.roll_sum == 16 and Nicco.health == 150:
+    print("Oh my GOD you're awesome.")
+elif Nicco.roll_sum >= armor_class:
+    print("GREAT! I cant believe you hit that.")
