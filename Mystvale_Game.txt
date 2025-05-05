@@ -130,6 +130,25 @@ New Game Dev (10s)
 
 Enjoy! (10s)
 
+#Game Code
+ def show_intro():
+     print(ascii_banner)
+     print("New Game Dev, Please Enjoy")
+     time.sleep(5)
+     getUsersName()
+
+ def getUsersName():
+#Get Users Name
+     name = input("What is your name Stranger?: ")
+     print("Are you sure your name is " + name + "?")
+     isNameCorrect = False
+show_intro()
+
+** I suppose Before we get into asking for the name there should be some simple backstory to Mystvale **
+
+print("Mystvale Background")
+print("Its the year,") 
+------------------------------------------
 
  * User Input
 (yes or no)

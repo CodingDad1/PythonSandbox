@@ -21,11 +21,9 @@ Brawler:
 
 
 Priest:
-
-
-
-
-
+			Upgrade1 -
+Restoration ------ Heal half health     
+			Upgrade2 -
 
 
 

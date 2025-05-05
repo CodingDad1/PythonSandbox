@@ -12,7 +12,7 @@ Mystvale is a nation, with 5 cities, each city has its own environment.
 
 
 As the traveller to this land you from far away. In fact you may have amnesia. Unsure of your origin you explore
-this world of Mystvale descovering along the way of who you really are. You have flashbacks of screen and 
+this world of Mystvale discovering along the way of who you really are. You have flashbacks of mobile screens and 
 motor vehicles. Things unknown to this realm. 
 Mystvale used to be such a bright cunning place to be. A place Where all 5 cities thrived with tourists and
 city lovers. But one day there was an odd mist that overcame each city. Each with its own Glow,
@@ -27,6 +27,8 @@ to this once wonderful nation, Mystvale.
 With thurough investigation its found that the "Evil Doer" Came with intent to destory this place from the inside.
 Create an environment that would change the people of this land to soldiers for his own personal army.
 Why? Because he has a plan that is not quite clear until the end of the game (TBD)
+
+
 
 
 
@@ -48,6 +50,9 @@ making them believe they are still beautiful humanoids. These hallucinations mak
 the normal Humanoid these Undead seem to act strange, but to them their completely normal.
 
 The Goblin Lore () -
+Born for greed, the Goblins lived in a distant land. Built on the very idea of greed, brute force to gain what
+they want. Food, Gold, Resources. Goblins have always been easy to anger, although one faitful day the Goblin King
+"" 
 
 The Spirits Lore () -
 
