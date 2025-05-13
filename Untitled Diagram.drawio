@@ -86,6 +86,12 @@
         <mxCell id="-9CfG8XT5fFYJXyZzOgh-36" value="Enounter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="29.39" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-9CfG8XT5fFYJXyZzOgh-37" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-180;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="25" y="59.39" width="23.26" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9CfG8XT5fFYJXyZzOgh-38" value="Inn/Hotel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="46.63" y="59.39" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
